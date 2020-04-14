@@ -24,12 +24,12 @@
     "directory": "core/gatsby-theme-blog-core"
   },
   "peerDependencies": {
-    "gatsby": "2.20.3",
+    "gatsby": "2.20.20",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
   "devDependencies": {
-    "gatsby": "2.20.3",
+    "gatsby": "2.20.20",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
